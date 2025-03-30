@@ -13,9 +13,9 @@ public class CreateProduct {
   private final ProductGateway productGateway;
 
   public Product execute(final Product request) {
-    final var user = productGateway.findBySku(request.getSku());
+    final var product = productGateway.findBySku(request.getSku());
 
-    if (user.isPresent()) {
+    if (product.isPresent()) {
       throw new ProductAlreadyExistsException(request.getSku());
     }
 
