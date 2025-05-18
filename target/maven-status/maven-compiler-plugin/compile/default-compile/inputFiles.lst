@@ -1,22 +1,22 @@
-C:\solari\solari-product-service\src\main\java\br\com\solari\application\domain\exception\DomainException.java
-C:\solari\solari-product-service\src\main\java\br\com\solari\application\domain\exception\ErrorDetail.java
-C:\solari\solari-product-service\src\main\java\br\com\solari\application\domain\Product.java
-C:\solari\solari-product-service\src\main\java\br\com\solari\application\dto\UpdateProductDto.java
-C:\solari\solari-product-service\src\main\java\br\com\solari\application\gateway\exception\GatewayException.java
-C:\solari\solari-product-service\src\main\java\br\com\solari\application\gateway\ProductGateway.java
-C:\solari\solari-product-service\src\main\java\br\com\solari\application\usecase\CreateProduct.java
-C:\solari\solari-product-service\src\main\java\br\com\solari\application\usecase\DeleteProduct.java
-C:\solari\solari-product-service\src\main\java\br\com\solari\application\usecase\exception\BusinessException.java
-C:\solari\solari-product-service\src\main\java\br\com\solari\application\usecase\exception\ProductAlreadyExistsException.java
-C:\solari\solari-product-service\src\main\java\br\com\solari\application\usecase\exception\ProductNotFoundException.java
-C:\solari\solari-product-service\src\main\java\br\com\solari\application\usecase\SearchProduct.java
-C:\solari\solari-product-service\src\main\java\br\com\solari\application\usecase\UpdateProduct.java
-C:\solari\solari-product-service\src\main\java\br\com\solari\infrastructure\config\GlobalExceptionHandler.java
-C:\solari\solari-product-service\src\main\java\br\com\solari\infrastructure\config\SystemBaseException.java
-C:\solari\solari-product-service\src\main\java\br\com\solari\infrastructure\controller\ProductController.java
-C:\solari\solari-product-service\src\main\java\br\com\solari\infrastructure\gateway\ProductGatewayImpl.java
-C:\solari\solari-product-service\src\main\java\br\com\solari\infrastructure\persistence\entity\ProductEntity.java
-C:\solari\solari-product-service\src\main\java\br\com\solari\infrastructure\persistence\repository\ProductRepository.java
-C:\solari\solari-product-service\src\main\java\br\com\solari\infrastructure\presenter\ProductPresenter.java
-C:\solari\solari-product-service\src\main\java\br\com\solari\infrastructure\presenter\response\ProductPresenterResponse.java
-C:\solari\solari-product-service\src\main\java\br\com\solari\ProductServiceApplication.java
+C:\Users\ribol\Desktop\FIAP\Projeto aprendizado nas ferias\Bruna\Testes Kafka\Projetos\solari-product-service\src\main\java\br\com\solari\application\domain\exception\DomainException.java
+C:\Users\ribol\Desktop\FIAP\Projeto aprendizado nas ferias\Bruna\Testes Kafka\Projetos\solari-product-service\src\main\java\br\com\solari\application\domain\exception\ErrorDetail.java
+C:\Users\ribol\Desktop\FIAP\Projeto aprendizado nas ferias\Bruna\Testes Kafka\Projetos\solari-product-service\src\main\java\br\com\solari\application\domain\Product.java
+C:\Users\ribol\Desktop\FIAP\Projeto aprendizado nas ferias\Bruna\Testes Kafka\Projetos\solari-product-service\src\main\java\br\com\solari\application\dto\UpdateProductDto.java
+C:\Users\ribol\Desktop\FIAP\Projeto aprendizado nas ferias\Bruna\Testes Kafka\Projetos\solari-product-service\src\main\java\br\com\solari\application\gateway\exception\GatewayException.java
+C:\Users\ribol\Desktop\FIAP\Projeto aprendizado nas ferias\Bruna\Testes Kafka\Projetos\solari-product-service\src\main\java\br\com\solari\application\gateway\ProductGateway.java
+C:\Users\ribol\Desktop\FIAP\Projeto aprendizado nas ferias\Bruna\Testes Kafka\Projetos\solari-product-service\src\main\java\br\com\solari\application\usecase\CreateProduct.java
+C:\Users\ribol\Desktop\FIAP\Projeto aprendizado nas ferias\Bruna\Testes Kafka\Projetos\solari-product-service\src\main\java\br\com\solari\application\usecase\DeleteProduct.java
+C:\Users\ribol\Desktop\FIAP\Projeto aprendizado nas ferias\Bruna\Testes Kafka\Projetos\solari-product-service\src\main\java\br\com\solari\application\usecase\exception\BusinessException.java
+C:\Users\ribol\Desktop\FIAP\Projeto aprendizado nas ferias\Bruna\Testes Kafka\Projetos\solari-product-service\src\main\java\br\com\solari\application\usecase\exception\ProductAlreadyExistsException.java
+C:\Users\ribol\Desktop\FIAP\Projeto aprendizado nas ferias\Bruna\Testes Kafka\Projetos\solari-product-service\src\main\java\br\com\solari\application\usecase\exception\ProductNotFoundException.java
+C:\Users\ribol\Desktop\FIAP\Projeto aprendizado nas ferias\Bruna\Testes Kafka\Projetos\solari-product-service\src\main\java\br\com\solari\application\usecase\SearchProduct.java
+C:\Users\ribol\Desktop\FIAP\Projeto aprendizado nas ferias\Bruna\Testes Kafka\Projetos\solari-product-service\src\main\java\br\com\solari\application\usecase\UpdateProduct.java
+C:\Users\ribol\Desktop\FIAP\Projeto aprendizado nas ferias\Bruna\Testes Kafka\Projetos\solari-product-service\src\main\java\br\com\solari\infrastructure\config\GlobalExceptionHandler.java
+C:\Users\ribol\Desktop\FIAP\Projeto aprendizado nas ferias\Bruna\Testes Kafka\Projetos\solari-product-service\src\main\java\br\com\solari\infrastructure\config\SystemBaseException.java
+C:\Users\ribol\Desktop\FIAP\Projeto aprendizado nas ferias\Bruna\Testes Kafka\Projetos\solari-product-service\src\main\java\br\com\solari\infrastructure\controller\ProductController.java
+C:\Users\ribol\Desktop\FIAP\Projeto aprendizado nas ferias\Bruna\Testes Kafka\Projetos\solari-product-service\src\main\java\br\com\solari\infrastructure\gateway\ProductGatewayImpl.java
+C:\Users\ribol\Desktop\FIAP\Projeto aprendizado nas ferias\Bruna\Testes Kafka\Projetos\solari-product-service\src\main\java\br\com\solari\infrastructure\persistence\entity\ProductEntity.java
+C:\Users\ribol\Desktop\FIAP\Projeto aprendizado nas ferias\Bruna\Testes Kafka\Projetos\solari-product-service\src\main\java\br\com\solari\infrastructure\persistence\repository\ProductRepository.java
+C:\Users\ribol\Desktop\FIAP\Projeto aprendizado nas ferias\Bruna\Testes Kafka\Projetos\solari-product-service\src\main\java\br\com\solari\infrastructure\presenter\ProductPresenter.java
+C:\Users\ribol\Desktop\FIAP\Projeto aprendizado nas ferias\Bruna\Testes Kafka\Projetos\solari-product-service\src\main\java\br\com\solari\infrastructure\presenter\response\ProductPresenterResponse.java
+C:\Users\ribol\Desktop\FIAP\Projeto aprendizado nas ferias\Bruna\Testes Kafka\Projetos\solari-product-service\src\main\java\br\com\solari\ProductServiceApplication.java
